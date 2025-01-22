@@ -20,6 +20,7 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+[My Video](https://www.loom.com/share/0c1155a482224625a44c254389240aa2)
 
 Here's a walkthrough of implemented features:
 
